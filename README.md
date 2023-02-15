@@ -4,6 +4,6 @@ Hi! This project was created as part of learning JavaScript Advanced DOM and Eve
 
 I deployed it using the link below. Enjoy seeing it! 😄
 
-Link: 
+Link: https://alrho-project-05-bankist.netlify.app/
 
 
