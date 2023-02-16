@@ -4,6 +4,6 @@ Hi! This project was created as part of learning JavaScript advanced DOM and eve
 
 I deployed it using the link below. Enjoy seeing it! 😄
 
-Link: https://alrho-project-06-bankist.netlify.app/
+Link: https://alrho-project-06-bankist-website.netlify.app/
 
 
